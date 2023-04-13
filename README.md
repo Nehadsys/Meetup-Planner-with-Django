@@ -1,4 +1,4 @@
-# Meetup-Planner-Using-Django-Framework
+# Meetup-Planner-with-Django
 
   <h1 color=#F7CC18FF> Hi there 👋<a href="#"></h1>
   
